@@ -5,3 +5,5 @@ zmianaprostsza
 zmiana05
 Zmiana06
 Zmiana10
+Zmiana08
+
