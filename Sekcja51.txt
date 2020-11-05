@@ -3,3 +3,4 @@ naprawabledu
 zmianaprosta
 zmianaprostsza
 zmiana05
+Zmiana06
